@@ -7,6 +7,17 @@ You can find more context and write-ups on my blog: [akosbakos.ch](https://akosb
 
 ---
 
+## 📦 Repositories
+
+| Repo | Description |
+|------|-------------|
+| [OSDCloud](https://github.com/AkosBakos/OSDCloud) | OSDCloud-related deployment scripts |
+| [Troubleshooting](https://github.com/AkosBakos/Troubleshooting) | PowerShell troubleshooting helpers |
+| [Tools](https://github.com/AkosBakos/Tools) | General IT tooling scripts |
+| [Blog](https://github.com/AkosBakos/Blog) | Scripts and snippets referenced in blog posts |
+
+---
+
 ## ⚠️ Disclaimer — Use at Your Own Risk
 
 All scripts and tools in my repositories are provided **as-is**, without warranty of any kind.  
@@ -25,3 +36,4 @@ They are intended for use by experienced IT professionals who understand the imp
 
 [![Blog](https://img.shields.io/badge/Blog-akosbakos.ch-blue?style=flat-square)](https://akosbakos.ch)
 [![Twitter/X](https://img.shields.io/badge/Twitter-@akosbakos-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/akosbakos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ákos%20Bakos-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/akos-bakos-58b57021/)
